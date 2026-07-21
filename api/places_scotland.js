@@ -14,6 +14,9 @@ const places = [
   { name: "Elgin", attractions: ["the ruins of Elgin Cathedral", "Spynie Castle", "the Elgin Museum"] },
   { name: "Falkirk", attractions: ["the Kelpies", "the Falkirk Wheel", "the Antonine Wall"] },
   { name: "Dunfermline", attractions: ["Dunfermline Abbey", "Dunfermline Palace", "Pittencrieff Park"] },
+  { name: "Atrair's house", attractions: ["his fridge", "the underside of his bed", "his hidden cache of cans of peas"] },
+  { name: "Haurbus", attractions: ["his maw", "his throat", "his belly", "his GHD"] },
+  { name: "Silk Song", attractions: ["Poshanka", "the respawn bench because Atrair died", "the inside of a Guaraná bottle"] },
 ];
 
 const rand = (arr) => arr[Math.floor(Math.random() * arr.length)];
