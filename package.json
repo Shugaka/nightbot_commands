@@ -1,5 +1,9 @@
 {
   "name": "nightbot_commands",
   "version": "1.0.0",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "npm": "^11.19.1"
+  }
 }
